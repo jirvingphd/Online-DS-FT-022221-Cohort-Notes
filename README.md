@@ -40,6 +40,7 @@
 ## If you **insist** on only cloning yourn forked repo and want the updated notes...
 
 - While it is recommended to clone this repo directly to get updates easily, below are excerpts from the official GitHub documentation on the steps required to sync a fork so that it receives changes made to the upstream repo (the one you forked). 
+- **Even better, another Flatiron Instructor has made a [video walk-through of how to set up your own fork so that its easy to get the updates from the main repository.](https://youtu.be/UHASy7vpOIQ)**
 
 ### How to sync a fork of this repo
 
