@@ -51,7 +51,7 @@
 2. List the current configured remote repository for your fork.
 `$ git remote -v`
 3. Specify a new remote upstream repository that will be synced with the fork.
-`$ git remote add upstream https://github.com/jirvingphd/online-dtsc-pt-041320-cohort-notes.git`
+`$ git remote add upstream https://github.com/flatiron-school/Online-DS-FT-022221-Cohort-Notes.git`
 
 4. Verify the new upstream repository you've specified for your fork.
 `$ git remote -v`
